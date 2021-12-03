@@ -1,6 +1,0 @@
-******Setup environment variable with nodemon using npm:
--> execute command "npm i --save-dev nodemon dotenv"
-then we need to create an .env file to store all the environment variables.
-
-****ejs is the view template to make the font and color attractive.
-npm i ejs
